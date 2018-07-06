@@ -1,0 +1,48 @@
+[{
+  "name": "candycorn",
+  "url": "./images/candycorn.jpg"
+},
+{
+  "name": "gumdrops",
+  "url": "./images/gumdrops.jpg"
+},
+{
+  "name": "gummybears",
+  "url": "./images/gummybears.jpg"
+},
+{
+  "name": "gummyworms",
+  "url": "./images/gummyworms.jpg"
+},
+{
+  "name": "jellybeans",
+  "url": "./images/jellybeans.jpg"
+},
+{
+  "name": "lolipops",
+  "url": "./images/lolipops.jpg"
+},
+{
+  "name": "mandms",
+  "url": "./images/mandms.jpg"
+},
+{
+  "name": "mikeandikes",
+  "url": "./images/mikeandikes.jpg"
+},
+{
+  "name": "mints",
+  "url": "./images/mints.jpg"
+},
+{
+  "name": "skittles",
+  "url": "./images/skittles.jpg"
+},
+{
+  "name": "starbursts",
+  "url": "./images/starbursts.jpg"
+},
+{
+  "name": "swedishfish",
+  "url": "./images/swedishfish.jpg"
+}]
